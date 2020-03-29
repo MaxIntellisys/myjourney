@@ -12,7 +12,7 @@ export default () => (
 
         <div>
             <img src="" />
-            <h3>Lern with me</h3>
+            <h3>Learn with me</h3>
             <p></p>
         </div>
     </header>
